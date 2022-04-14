@@ -1,0 +1,9 @@
+main {
+  min-height: 80vh;
+  font-variant-caps: all-small-caps;
+}
+
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+}
